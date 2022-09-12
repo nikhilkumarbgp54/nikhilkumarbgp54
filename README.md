@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif))](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Sharma</h1>
 <h3 align="center">MECHANICAL ENGINEER || IITIAN || PYTHON DEVELOPER || FRONTEND DEVELOPER || ML & AI</h3>
